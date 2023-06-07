@@ -2,4 +2,4 @@
 
 Jetson nano / Dynamixel / Camera / 5V battery for boards / 11.1V battery for Dynamixel / code / opencv / c++ / GCC / GNUMake / Xserver / Gstreamer
 
-
+I couldn't upload the Make file, so I tested it by setting the speed value to 50 rpm.
